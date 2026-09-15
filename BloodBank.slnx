@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BloodBank.BLL/BloodBank.BLL.csproj" Id="2aa97024-6b15-40ce-93fe-5567452115d2" />
+  <Project Path="BloodBank.DAL/BloodBank.DAL.csproj" Id="a086c028-2219-40d9-b3c6-6c3b4001305b" />
+  <Project Path="BloodBank/BloodBank.csproj" Id="ec77c747-eea5-4244-9c49-273c6f9adef5" />
+</Solution>
